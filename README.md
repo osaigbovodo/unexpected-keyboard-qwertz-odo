@@ -1,10 +1,10 @@
-## 🧠 ODO QWERTZ v1.0.1 – Unexpected Keyboard Layout
+## ODO QWERTZ v1.0.1 – Unexpected Keyboard Layout
 
 A fully custom, corner-mapped, symbol-rich **QWERTZ** keyboard layout for everyday coding, writing, and symbolic precision on touch devices.
 
 > Designed to **maximise utility**, **minimise abstraction**, and saturate every key—north, east, west, and south—with meaning.
 
-### 🔥 Features
+### Features
 
 * **Full QWERTZ layout**, with logical rearrangement of coding essentials
 * Every key has up to four **corner-assigned symbols** (`nw`, `ne`, `sw`, `se`)
@@ -17,7 +17,7 @@ A fully custom, corner-mapped, symbol-rich **QWERTZ** keyboard layout for everyd
 * Optimised for **Termux**, Vim, mobile code editing, and Markdown authorship
 * Stored in clean, portable `.xml` format (usable in custom Android keyboards or parsable for build tools)
 
-### 📜 Philosophy
+### Philosophy
 
 Every symbol should serve a purpose. Every corner should carry weight.
 
