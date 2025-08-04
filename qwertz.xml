@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard name="ODO QWERTZ v1.0.1" script="latin">
+  <row>
+    <key c="q" ne="1" se="loc esc"/>
+    <key c="w" nw="~" ne="2" sw="\@"/>
+    <key c="e" nw="!" ne="3" sw="\#" se="£"/>
+    <key c="r" ne="4" sw="$"/>
+    <key c="t" ne="5" sw="%"/>
+    <key c="z" ne="6" sw="^"/>
+    <key c="u" ne="7" sw="&amp;"/>
+    <key c="i" ne="8" sw="*"/>
+    <key c="o" ne="9" sw="(" se=")"/>
+    <key c="p" ne="0"/>
+  </row>
+  
+  <row>
+    <key c="a" nw="loc tab" ne="`" sw="'"/>
+    <key c="s" ne="\" sw="/"/>
+    <key c="d"/>
+    <key c="f"/>
+    <key c="g" ne="-" sw="_"/>
+    <key c="h" ne="=" sw="+"/>
+    <key c="j" sw="{" se="}"/> 
+    <key c="k" sw="[" se="]"/>
+    <key c="l" ne="|" sw="\\"/>
+    <key c=";" ne=":"/>
+  </row>
+  
+  <row>
+    <key width="1.5" c="shift" ne="loc capslock"/>
+    <key c="y" ne="„" se="‟" nw="‚" sw="‛"/>
+    <key c="x" ne="&lt;" sw="&gt;" nw="〝" se="〞"/>
+    <key c="c" ne="«" sw="»" nw="‹" se="›"/>
+    <key c="v" ne="“" se="”" nw="‘" sw="’"/>
+    <key c="b" ne="\?" sw="/" nw="＂" se="＇"/>
+    <key c="n" ne="@" sw="," se="´"/>
+    <key c="m" ne="&quot;" sw="." se="'"/>
+    <key width="1.5" c="backspace" n="delete"/>
+  </row>
+</keyboard>
